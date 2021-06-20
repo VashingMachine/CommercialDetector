@@ -1,0 +1,7 @@
+.idea/
+cmake-build-debug/
+.idea
+data
+venv
+classifier/polsat_detector.onnx
+__pycache__/
